@@ -8,7 +8,7 @@
 <p>If I enter the text, "Hii jatin, I will call you tomorrow" as it is not a spam text.So, it will predict not spam. </p>
 
 <span >
-  <img src="ham_ex.png" width="400" height="450" title="Enter non spam text">
+  <img src="ham_ex.png" width="600" height="600" title="Enter non spam text">
 </span>
 <span >
   <img src="ham_pred.png" width="400" title="after pressing predict button">
